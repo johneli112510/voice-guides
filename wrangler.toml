@@ -7,5 +7,5 @@ binding = "BUCKET"
 bucket_name = "voice-guides"
 # ...
 [vars]
-admin = "admin"
 # ...
+
