@@ -1,6 +1,6 @@
 name = "voice-guides"
 main = "worker.js"
-compatibility_date = "2026-11-01"
+compatibility_date = "2026-11-17"
 
 [assets]
 directory = "./public"
